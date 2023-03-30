@@ -1,0 +1,25 @@
+{
+  "name": "pm2-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyukuai/pm2-notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyukuai/pm2-notify/issues"
+  },
+  "homepage": "https://github.com/liuyukuai/pm2-notify#readme",
+  "devDependencies": {
+    "webpack": "^5.77.0"
+  },
+  "dependencies": {
+    "pm2": "^5.3.0"
+  }
+}
